@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "lab3-reactnative",
+    "slug": "lab3-reactnative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#495E57"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#495E57"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
